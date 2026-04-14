@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
->>>>>>> 355bb6ab0f27ef2fb992cd0709087f0b9243a276
 .Python
 build/
 develop-eggs/
@@ -21,14 +20,11 @@ parts/
 sdist/
 var/
 wheels/
-<<<<<<< HEAD
 pip-wheel-metadata/
->>>>>>> 355bb6ab0f27ef2fb992cd0709087f0b9243a276
 share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-<<<<<<< HEAD
 .pytest_cache/
 MANIFEST
 
@@ -46,13 +42,11 @@ pip-delete-this-directory.txt
 htmlcov/
 .tox/
 .nox/
->>>>>>> 355bb6ab0f27ef2fb992cd0709087f0b9243a276
 .coverage
 .coverage.*
 .cache
 nosetests.xml
 coverage.xml
-<<<<<<< HEAD
 *,cover
 .hypothesis/
 .tox/
